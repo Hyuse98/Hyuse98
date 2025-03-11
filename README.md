@@ -174,6 +174,21 @@
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
     />
+    <img
+        alt="Grafana"
+        title="Grafana"
+        width="40px"
+        style="padding right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" 
+    />
+    <img
+        alt="Prometheus"
+        title="Prometheus"
+        width="40px"
+        style="padding right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" 
+    />
+   
 </div>
 <br>
 <div>
