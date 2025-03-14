@@ -1,14 +1,8 @@
-# 👋 Olá, sou Franklin!
+# 👋 Olá, me chamo Franklin!
 
-💻 Desenvolvedor apaixonado por Java e sempre em busca de aprimorar minhas habilidades. Atualmente, estudo Kotlin e Spring Boot, explorando o melhor do ecossistema backend.
+💻 Desenvolvedor apaixonado por Java e sempre em busca de aprimorar minhas habilidades. Atualmente, estudo Kotlin, Spring Boot e Angular.
 
-🔗 Tenho experiência no desenvolvimento de APIs RESTful, seguindo boas práticas para criar serviços eficientes e bem estruturados. Gosto de aplicar HATEOAS (Hypermedia as the Engine of Application State) para tornar as APIs mais dinâmicas e autodocumentadas, além de utilizar OpenAPI/Swagger para facilitar a documentação e testes interativos.
-
-🚀 Além do desenvolvimento, também me interesso por Docker e Kubernetes, focando na criação de aplicações escaláveis e bem distribuídas.
-
-📌 Aqui no GitHub, você encontrará projetos, experimentos e estudos que refletem minha jornada no desenvolvimento de software.
-
-📫 Vamos conectar? Sinta-se à vontade para entrar em contato ou explorar meus repositórios!
+📫 Vamos conectar? Sinta-se à vontade para entrar em contato e explorar meus repositórios!
 
 ### Redes
 <div>
