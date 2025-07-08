@@ -1,10 +1,12 @@
 # 👋 Olá, me chamo Franklin!
 
-💻 Desenvolvedor apaixonado por Java e sempre em busca de aprimorar minhas habilidades. Atualmente, estudo Kotlin, Spring Boot e Angular.
+💻 Desenvolvedor apaixonado por Java e sempre em busca de aprimorar minhas habilidades. Atualmente, estudo Kotlin, Spring
+Boot e Angular.
 
 📫 Vamos conectar? Sinta-se à vontade para entrar em contato e explorar meus repositórios!
 
 ### Redes
+
 <div>
     <a href="https://www.linkedin.com/in/franklinpereira98/">
     <img
@@ -15,10 +17,18 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"        
     />
     </a>
-    
+    <a href="https://discord.com/channels/@me/828800675038887936">
+    <img
+        alt="Discord"
+        title="Discord"
+        width="40px"
+        style="padding right: 10px"
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"
+    />
+    </a>
 </div>
 
-### Linguagens e Tecnologias
+### Linguagens
 
 <div>
     <img 
@@ -35,20 +45,20 @@
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
     />
+    <img 
+        alt="Kotlin"
+        title="Kotlin"
+        width="40px"
+        style="padding right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+    />          
     <img
         alt="TypeScript"
         title="TypeScript"
         width="40px"
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-    />
-    <img 
-        alt="Angular"
-        title="Angular"
-        width="40px"
-        style="padding right: 10px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-    />
+    />    
     <img 
         alt="HTML5"
         title="HTML5"
@@ -63,6 +73,11 @@
         style="padding right: 10px"        
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
+</div>
+
+### Tecnologias
+
+<div>
     <img 
         alt="Spring"
         title="Spring"
@@ -76,22 +91,32 @@
         width="40px"
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
-    />    
+    />   
     <img 
         alt="Hibernate"
         title="Hibernate"
         width="40px"
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" 
-    />       
+    />    
     <img 
         alt="Junit5"
         title="Junit5"
         width="40px"
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg"
-    />    
+    />   
+    <img 
+        alt="Angular"
+        title="Angular"
+        width="40px"
+        style="padding right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    />
 </div>
+
+### Databases
+
 <div>
     <img
         alt="Redis"
@@ -182,7 +207,7 @@
         style="padding right: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" 
     />
-   
+
 </div>
 <br>
 <div>
